@@ -1,0 +1,28 @@
+.piechart{
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+}
+.skill-box{
+  justify-content: center;
+  display: flex;
+  
+}
+.skll{
+  display: inline-flex;
+  border: 
+  display: inline-flex;
+
+  
+}
+.sk{
+  width: 70px;
+}
+
+.progress{
+  display: inline-flex;
+  width: 500px;
+  
+  margin-top: 25px;
+}
+
